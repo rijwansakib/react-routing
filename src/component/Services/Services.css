@@ -1,0 +1,6 @@
+.course-card{
+    width: 85%;
+    display: grid;
+    grid-template-columns: repeat(4,1fr)
+
+}

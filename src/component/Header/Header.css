@@ -1,0 +1,15 @@
+nav{
+    background-color: rgba(76, 115, 117, 0.192);
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 24px;
+}
+.header{    
+    text-decoration: none;
+    text-shadow: rgb(26, 70, 78);
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}

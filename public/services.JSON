@@ -1,0 +1,61 @@
+[
+    {
+        "key": "01",
+        "name": "SSC Crash Course",
+        "start": "oct 10, 2021",
+        "des": "SSC Crash Course preparation with sakib sir",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgOG1DPhDOy7KA3SWO6-WYGKf5t_aqBW6vHg&usqp=CAU",
+        "price":"1000 TK"
+    },
+    {
+        "key": "02",
+        "name": "HSC Crash Course",
+        "start": "oct 21, 2021",
+        "des": "SSC Crash Course preparation with zahid sir",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8vpLU2qcNoMDV-_U59tiJVR0GxEa9z8uWGX2Y1welI2LixTWkNfwgRAbkSBAjHwH8OU&usqp=CAU",
+        "price":"1500 TK"
+    },
+    {
+        "key": "03",
+        "name": " Pre Admission Medical Course ",
+        "start": "oct 21, 2021",
+        "des": "Pre Admission Medical Course preparation with DR.jamil sir",
+        "img": "https://www.scnsoft.com/blog-pictures/healthcare/doctor_apps-01_1.png",
+        "price":"3000 TK"
+    },
+    {
+        "key": "04",
+        "name": " English Grammar Crash Course",
+        "start": "oct 18, 2021",
+        "des": "English Grammar Crash Course preparation with Nazrul sir",
+        "img": "https://www.itepexam.com/wp-content/uploads/2021/01/English-Grammar.jpg",
+        "price":"3000 TK"
+    },
+    {
+        "key": "05",
+        "name": " Facebook Marketing",
+        "start": "oct 18, 2021",
+        "des": "Facebook Marketing with Khan",
+        "img": "https://cdn.twistarticle.com/wp-content/uploads/2020/01/The-Importance-Of-Facebook-Marketing-In-The-Digital-World.jpg",
+        "price":"2000 TK"
+    },
+    
+    {
+        "key": "06",
+        "name": " Microsoft PowerPoint",
+        "start": "oct 18, 2021",
+        "des": "Microsoft PowerPoint with Shakil",
+        "img": "https://i.pcmag.com/imagery/reviews/00InVWTsLrQWxxCpsQMKFcl-5.1569482071.fit_scale.size_760x427.jpg",
+        "price":"2500 TK"
+    },
+    
+    {
+        "key": "07",
+        "name": " Programming for Kids",
+        "start": "oct 18, 2021",
+        "des": "Programming for Kids with Prapty Rahman",
+        "img": "https://www.analyticssteps.com/backend/media/thumbnail/1084449/5171540_1628741951_Top%20programming%20languages%20for%20machine%20learningArtboard%201.jpg",
+        "price":"1500 TK"
+    }
+    
+]
